@@ -1,5 +1,3 @@
 module.exports = {
-
-text: "hello world"
-
+  text: "Hello world!"
 };
