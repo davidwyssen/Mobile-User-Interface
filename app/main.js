@@ -1,4 +1,6 @@
 var config = require('config');
 
 
-alert(config.text);
+$('.item').click(function(){
+  $(this).toggleClass('animate');
+});
